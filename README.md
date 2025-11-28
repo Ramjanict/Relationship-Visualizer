@@ -67,4 +67,6 @@ If any person object becomes invalid, it is automatically removed from the graph
 ```bash
 git clone https://github.com/Ramjanict/Relationship-Visualizer.git
 cd Relationship-Visualizer
+npm install
+npm run dev
 ```
