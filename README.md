@@ -3,7 +3,7 @@
 > Transform plain-text person objects into a live, interactive relationship graph — instantly, as you type.
 
 **🔗 Live Demo:** https://relationship-visualizer.vercel.app  
-**📦 GitHub:** https://github.com/Ramjanict/Relationship-Visualizer
+
 
 ---
 
